@@ -3,7 +3,6 @@
 bin/
 include/
 Scripts/
-/.do-no
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -143,3 +142,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/.do/deploy.template.yaml
+/.do
